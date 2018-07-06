@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Massoid  - About us
+title: Massoid  - Software
 description: Serving mass spectrometry data processing needs
 sitemap:
     priority: 0.7
@@ -8,3 +8,8 @@ sitemap:
     changefreq: weekly
 ---
 
+<h3>Data visualization</h3>
+<ul>
+    <li>Raw LC/MS data</li>
+    <li>Identification results</li>
+</ul>
